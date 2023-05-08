@@ -8,7 +8,7 @@ const myStyle = {
 function ContentFile() {
   return (
 <div className="content">
-Looking for MORE than a Free URL Shortener??<br/>
+Looking for MORE than a Free URL Shortener Link?<br/>
 <button className="btn btn-danger">Click Here</button>
 </div>
   )
